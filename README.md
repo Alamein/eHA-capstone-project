@@ -100,7 +100,8 @@ The final model predicts:
   * Due: Week 2
 
 # *🙏 Acknowledgments*
+  * eHA Software Department Support
+  * Mentor Supports
   * UCI Machine Learning Repository
   * scikit-learn community
   * React.js open-source community
-  * eHA Software Department Support
