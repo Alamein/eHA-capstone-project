@@ -4,7 +4,7 @@ from flask import Flask, request, render_template
 import pickle
 
 app = Flask(__name__)
-model = pickle.load(open('model.pkl', 'rb'))
+model = pickle.load(open('classifier.pkl', 'rb'))
 
 @app.route('/')
 def home():
@@ -23,10 +23,12 @@ def predict():
   output = model.predict(df)
 
   if output == 4:
-        return render_template('yes.html')
+        return render_template('ResultPageYes.tsx')
 
+  elif:
+        return render_template('ResultPageNo.tsx')
   else:
-        return render_template('no.html')
+    return render_template('ResultPageIncomplete.tsx')
 
 
  

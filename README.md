@@ -1,4 +1,7 @@
-# <img width="512" height="211" alt="eHealth-Africa-Donates-1 9m-to-eha-Impact-Ventures-EIV" src="https://github.com/user-attachments/assets/60d2bba6-49be-4115-8964-29aa7b738c65" />
+# <img width="512" height="211" alt="eHealth-Africa-Donates-1 9m-to-eha-Impact-Ventures-EIV" src="https://github.com/user-attachments/assets/60d2bba6-49be-4115-8964-29aa7b738c65" /><img width="900" height="629" alt="download" src="https://github.com/user-attachments/assets/df6acf3a-0c4a-43a9-aa2b-9340c2da4b63" />
+
+
+
 # eHA Software Engineering Interns Capstone Project 2025
 
 # 🩺 Breast Cancer Prediction Web Application
@@ -97,7 +100,8 @@ The final model predicts:
   * Due: Week 2
 
 # *🙏 Acknowledgments*
+  * eHA Software Department Support
+  * Mentor Supports
   * UCI Machine Learning Repository
   * scikit-learn community
   * React.js open-source community
-  * eHA Software Department Support
