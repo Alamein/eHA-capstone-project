@@ -35,5 +35,3 @@ def predict():
 
 if __name__ == "__main__":
   app.run()
-
-#Got Errors : vatshayan007@gmail.com
