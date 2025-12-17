@@ -29,9 +29,5 @@ def predict():
   else:
     return render_template('ResultPageIncomplete.tsx')
 
-
- 
-
-
 if __name__ == "__main__":
   app.run()
