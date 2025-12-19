@@ -142,3 +142,11 @@ def evaluate_models_full(models, X_test, y_test, export_csv=True):
     print(ranked)
 
     return ranked
+
+
+
+best_model_name = ranked.iloc[0]["Model"]
+
+print("\n🏆 BEST MODEL SELECTED:", best_model_name)
+print(ranked)
+
